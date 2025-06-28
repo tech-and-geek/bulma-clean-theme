@@ -1,14 +1,15 @@
 # Site Settings
 lang: en
 title: Tech & Geek
-tagline: Bulma Clean Theme
+tagline: All things geeky
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Welcome to Tech and Geek
+  Your one-stop blog for everything tech and geek culture. From coding tutorials to gadget reviews, we’ve got it all.
 baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+#url: "https://www.csrhymes.com"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: favicon.png
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'

@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Tech And Geek
+subtitle: This is the site for tech & geek
 layout: page
 callouts: home_callouts
 show_sidebar: true
